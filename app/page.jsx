@@ -1,5 +1,6 @@
 "use client";
 import { useState, useEffect } from "react";
+import { Analytics } from "@vercel/analytics/react"
 
 export default function Home() {
   const [openButtons, setOpenButtons] = useState({});
