@@ -79,6 +79,12 @@ export default function Home() {
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">course number: </span>1101</li></p>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">tuesday & thursday</span></li></p>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">elizabeth callaghan</span></li></p>
+        <h1 className="font-bold btitle">principles of accounting</h1>
+        <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">time: </span>4:30 pm - 7:00 pm</li></p>
+        <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">classroom south: </span>328</li></p>
+        <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">course number: </span>2101</li></p>
+        <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">thursday</span></li></p>
+        <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">alison hollingsworth</span></li></p>
       </ul>
     ) },
   ];
