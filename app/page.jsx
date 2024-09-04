@@ -29,12 +29,14 @@ export default function Home() {
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">course number: </span>2641</li></p>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">monday & wednesday</span></li></p>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">mohammad shirazi</span></li></p>
+        <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">mshirazi@gsu.edu</span></li></p>
         <h1 className="font-bold btitle pt-3">data structures</h1>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">time: </span>3:30 pm - 4:45 pm</li></p>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">langdale hall: </span>700</li></p>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">course number: </span>2720</li></p>
-        <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">monday, tuesday*, wednesday</span></li></p>
+        <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">monday, tuesday (lab), wednesday</span></li></p>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">muhammad islam</span></li></p>
+        <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">mislam29@gsu.edu</span></li></p>
       </ul>
     ) },
     { label: "tuesday", details: ( 
@@ -45,12 +47,14 @@ export default function Home() {
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">course number: </span>1101</li></p>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">tuesday & thursday</span></li></p>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">elizabeth callaghan</span></li></p>
-        <h1 className="font-bold btitle pt-3">data structures</h1>
+        <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">eocallaghan1@gsu.edu</span></li></p>
+        <h1 className="font-bold btitle pt-3">data structures lab</h1>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">time: </span>3:45 pm - 4:35 pm</li></p>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">classroom south: </span>203</li></p>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">course number: </span>2720</li></p>
-        <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">monday, tuesday*, wednesday</span></li></p>
+        <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">monday, tuesday (lab), wednesday</span></li></p>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">muhammad islam</span></li></p>
+        <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">mislam29@gsu.edu</span></li></p>
         <h1 className="font-bold btitle pt-3">codepath intermediate cybersecurity</h1>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">september 16: </span>5:00 pm - 7:00 pm</li></p>
       </ul>
@@ -63,12 +67,14 @@ export default function Home() {
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">course number: </span>2641</li></p>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">monday & wednesday</span></li></p>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">mohammad shirazi</span></li></p>
+        <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">mshirazi@gsu.edu</span></li></p>
         <h1 className="font-bold btitle pt-3">data structures</h1>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">time: </span>3:30 pm - 4:45 pm</li></p>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">langdale hall: </span>700</li></p>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">course number: </span>2720</li></p>
-        <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">monday, tuesday*, wednesday</span></li></p>
+        <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">monday, tuesday (lab), wednesday</span></li></p>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">muhammad islam</span></li></p>
+        <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">mislam29@gsu.edu</span></li></p>
       </ul>
     ) },
     { label: "thursday", details: ( 
@@ -79,12 +85,14 @@ export default function Home() {
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">course number: </span>1101</li></p>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">tuesday & thursday</span></li></p>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">elizabeth callaghan</span></li></p>
+        <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">eocallaghan1@gsu.edu</span></li></p>
         <h1 className="font-bold btitle">principles of accounting</h1>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">time: </span>4:30 pm - 7:00 pm</li></p>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">classroom south: </span>328</li></p>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">course number: </span>2101</li></p>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">thursday</span></li></p>
         <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">alison hollingsworth</span></li></p>
+        <p className="text-sm pl-5 pt-1 pb-1"><li><span className="font-bold blist">ahollingsworth7@gsu.edu</span></li></p>
       </ul>
     ) },
   ];
